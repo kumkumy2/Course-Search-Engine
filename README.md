@@ -13,11 +13,11 @@ The dataset after scraping and applying data processing techniques consists of 5
 ## README FOR CODE IMPLEMENTATION
 For executing this model one would need Jupyter 5.4.1 installed on their systems. The following steps should be followed to run the project from start to end:
 
-Download the course_explorer.zip file to your desktop.
-Unzip this file and save it on your systems.
-This folder would consist of files final.ipynb, Scraping and Cleaning.ipynb, images folder, final_worked_new.csv, numbers.txt, README.txt.
-Run the Scraping and Cleaning.ipynb to generate the scraped dataset.
-Run the final.ipynb (Note : The final.ipynb uses final_worked_new.csv as manual cleaning was required in the dataset.)
-Wait for the .ipynb to execute and for the GUI to appear.
-Enter your query and press “Click Me!”.
-See the results and plan your coursework!
+1) Download the course_explorer.zip file to your desktop.
+2) Unzip this file and save it on your systems.
+3) This folder would consist of files final.ipynb, Scraping and Cleaning.ipynb, images folder, final_worked_new.csv, numbers.txt, README.txt.
+4) Run the Scraping and Cleaning.ipynb to generate the scraped dataset.
+5) Run the final.ipynb (Note : The final.ipynb uses final_worked_new.csv as manual cleaning was required in the dataset.)
+6) Wait for the .ipynb to execute and for the GUI to appear.
+7) Enter your query and press “Click Me!”.
+8) See the results and plan your coursework!
